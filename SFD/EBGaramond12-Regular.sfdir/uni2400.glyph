@@ -1,0 +1,11 @@
+StartChar: uni2400
+Encoding: 9216 9216 3404
+Width: 1358
+VWidth: 0
+Flags: W
+LayerCount: 3
+Fore
+Refer: 1248 -1 N 1 0 0 1 503 130 2
+Refer: 1241 -1 N 1 0 0 1 0 260 2
+Refer: 1239 -1 N 1 0 0 1 979 0 2
+EndChar

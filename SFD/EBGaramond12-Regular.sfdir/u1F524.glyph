@@ -1,0 +1,12 @@
+StartChar: u1F524
+Encoding: 128292 128292 3383
+Width: 834
+VWidth: 0
+Flags: W
+LayerCount: 3
+Fore
+Refer: 1239 -1 N 1 0 0 1 0 260 2
+Refer: 1260 -1 S 1 0 0 1 334 0 2
+Refer: 1279 -1 N 1 0 0 1 649 -260 2
+Validated: 1
+EndChar
