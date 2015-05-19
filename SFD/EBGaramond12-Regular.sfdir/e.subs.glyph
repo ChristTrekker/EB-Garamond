@@ -1,5 +1,5 @@
 StartChar: e.subs
-Encoding: 1114268 -1 1267
+Encoding: 1114268 -1 1264
 Width: 232
 VWidth: -273
 Flags: HMW
@@ -7,7 +7,7 @@ LayerCount: 3
 Fore
 SplineSet
 9 117 m 0
- 9 192 71 251 145 251 c 0
+ 9 192 71 251 145 251 c 4
  184 251 223 225 223 185 c 0
  223 152 219 143 200 143 c 2
  69 142 l 2
