@@ -1,9 +1,9 @@
 StartChar: uniAB53
-Encoding: 43859 43859 3396
-Width: 438
+Encoding: 43859 43859 3347
+Width: 489
 VWidth: 0
-Flags: W
+Flags: WO
 LayerCount: 3
 Fore
-Refer: 3072 -1 N 1 0 0 1 0 0 2
+Refer: 2932 -1 N 1 0 0 1 0 0 2
 EndChar

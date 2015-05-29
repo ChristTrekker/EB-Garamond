@@ -1,0 +1,26 @@
+StartChar: Region.GB_SCT
+Encoding: 1115243 -1 3432
+Width: 1284
+Flags: W
+LayerCount: 3
+Fore
+SplineSet
+1168.85 529.471 m 1
+ 1168.85 120.52 l 1
+ 759.898 324.996 l 1
+ 1168.85 529.471 l 1
+642.115 266.105 m 1
+ 1051.06 61.6309 l 1
+ 233.166 61.6309 l 1
+ 642.115 266.105 l 1
+524.333 324.996 m 1
+ 115.386 120.52 l 1
+ 115.386 529.471 l 1
+ 524.333 324.996 l 1
+642.115 383.888 m 1
+ 233.166 588.363 l 1
+ 1051.06 588.363 l 1
+ 642.115 383.888 l 1
+EndSplineSet
+Ligature2: "liga_regionals subtable" u1F1EC u1F1E7 hyphen u1F1F8 u1F1E8 u1F1F9
+EndChar
